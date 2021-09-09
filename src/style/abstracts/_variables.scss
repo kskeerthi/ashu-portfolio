@@ -1,0 +1,22 @@
+// COLORS
+$primary-color: rgb(221, 212, 159);
+$secondary-color: #c3eee7;
+
+// $primary-color: #7f449d;
+// $secondary-color: #793fc1;
+
+$hero: linear-gradient(221deg, rgba(34,193,195,1) 0%, rgba(78,192,165,1) 20%, rgba(117,191,138,1) 38%, rgba(216,188,71,1) 83%, rgba(253,187,45,1) 100%);
+$white-color: #fff;
+
+$dark-grey: #333333;
+
+$dark-blue-text: #272341; // For Headings
+
+$black: #01000a;
+
+$hero-text: linear-gradient(135deg, $primary-color 0%, $secondary-color 100%);
+
+// FONT SIZE
+$default-font-size: 1.6rem;
+$big-font-size: 4rem;
+$mid-font-size: 2.5rem;
